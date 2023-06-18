@@ -15,6 +15,14 @@ const RandomFlagGenerator = () => {
   };
 
   return (
+     <nav class="navbar">
+        <div class="navbar-container">
+          <
+          <a href="file:///F:/allhackthons/pridehack/welcome.html#" class="navbar-logo">
+            <img src="logo-png-removebg-preview (1).png" alt="Logo">
+          </a>
+        </div>
+      </nav>
     <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
       <h2 style={{color: 'pink'}}>Generate And Get Aware Of Pride Flags!</h2>
        {randomIndex !== null && (
